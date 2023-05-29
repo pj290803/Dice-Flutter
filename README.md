@@ -1,2 +1,2 @@
 # Dice-Flutter
-This  is a follow woth flutter project 
+This  is a follow with flutter project 
